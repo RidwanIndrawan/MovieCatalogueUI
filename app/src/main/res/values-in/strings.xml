@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">MovieCatalogueUI</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="movie">Film</string>
+    <string name="img_movie">Gambar Film</string>
+    <string name="name_movie">Nama Film</string>
+    <string name="description">Deksripsi Film</string>
+    <string name="tvshow">Acara TV</string>
+    <string name="img_tvshow">Gambar Acara TV</string>
+    <string name="name_tvshow">Nama Acara TV</string>
+    <string name="descriptiontv">Deskripsi Acara TV</string>
+    <string name="title">Film Katalog UI</string>
+    <string name="change">Ubah Pengaturan Bahasa</string>
+
+    <string-array name="data_movie_name">
+        <item>Aquaman</item>
+        <item>Spiderman</item>
+        <item>Overlord</item>
+        <item>Serenity</item>
+        <item>Robin Hood</item>
+        <item>Alita : Battle Angel</item>
+        <item>Glass</item>
+        <item>Creed II</item>
+        <item>Cold Pursuit</item>
+        <item>Bohemian Rhapsody</item>
+    </string-array>
+
+    <string-array name="data_movie_desc">
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, saudara setengah manusia, setengah saudara lelaki Atlantis dan pewaris sejati takhta.</item>
+        <item> Seorang remaja yang tidak aman tetapi berani dan cerdas bernama Peter Parker, seorang siswa baru dari Midtown High, digigit laba-laba radioaktif dan diberi kekuatan. Dia menjadi pahlawan bernama Spider-Man setelah kematian pamannya dan dia harus beradaptasi dengan cara hidup yang baru ini. </item>
+        <item> Prancis, Juni 1944. Menjelang D-Day, beberapa penerjun payung Amerika jatuh di belakang garis musuh setelah pesawat mereka jatuh ketika sedang dalam misi untuk menghancurkan menara radio di sebuah desa kecil dekat pantai Normandia. Setelah mencapai target mereka, pasukan terjun payung yang masih hidup menyadari bahwa, selain melawan pasukan Nazi yang berpatroli di desa, mereka juga harus bertarung melawan sesuatu yang lain. </item>
+        <item> Kehidupan tenang Baker Dill, seorang kapten kapal nelayan yang tinggal di Pulau Plymouth yang terpencil, tempat ia menghabiskan hari-harinya terobsesi menangkap tuna yang sulit ditangkap saat melawan iblis pribadinya, terganggu ketika seseorang dari masa lalunya datang kepadanya mencari untuk bantuan. </item>
+        <item> Tentara Salib yang mengeras perang dan komandan Moornya melancarkan pemberontakan yang berani melawan mahkota Inggris yang korup. </item>
+        <item> Ketika Alita terbangun tanpa ingatan siapa dia di dunia masa depan yang tidak dia kenal, dia dibawa oleh Ido, seorang dokter yang penuh kasih yang menyadari bahwa di suatu tempat di cangkang cyborg yang ditinggalkan ini adalah hati dan jiwa seorang wanita muda dengan masa lalu yang luar biasa. </item>
+        <item> Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya. </item>
+        <item> Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya. </item>
+        <item> Kehidupan keluarga yang tenang di Nels Coxman, seorang sopir bajak salju, menjadi kacau setelah pembunuhan putranya. Nels memulai perburuan dendam untuk Viking, raja obat bius yang ia anggap bertanggung jawab atas pembunuhan itu, menghilangkan rekan Viking satu per satu. Saat Nels semakin dekat dengan Viking, tindakannya membawa konsekuensi yang lebih tak terduga dan kejam, karena ia membuktikan bahwa balas dendam adalah semua dalam eksekusi. </item>
+        <item> Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock Queen Rock pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band tetap bersama di tengah kesuksesan dan kelebihan. </item>
+        <item> Wartawan investigasi Eddie Brock mencoba kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri. </item>
+    </string-array>
+
+    <array name="data_movie_img">
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_overlord</item>
+        <item>@drawable/poster_serenity</item>
+        <item>@drawable/poster_robin_hood</item>
+        <item>@drawable/poster_alita</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_cold_persuit</item>
+        <item>@drawable/poster_bohemian</item>
+    </array>
+
+    <string-array name="data_tvshow_name">
+        <item>NCIS</item>
+        <item>Arrow</item>
+        <item>Dragon Ball</item>
+        <item>Fairy Tail</item>
+        <item>Family Guy</item>
+        <item>The Flash</item>
+        <item>Naruto Shippuden</item>
+        <item>Shameless</item>
+        <item>Supergirl</item>
+        <item>The Simpsons</item>
+    </string-array>
+
+    <string-array name="data_tvshow_desc">
+        <item> Dari pembunuhan dan spionase hingga terorisme dan kapal selam curian, tim agen khusus menyelidiki kejahatan apa pun yang memiliki sedikit bukti yang terhubung dengan personel Korps Angkatan Laut dan Korps Marinir, terlepas dari pangkat atau jabatannya. </item>
+        <item> Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas saat kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur. </item>
+        <item> Dahulu di gunung, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang anak aneh yang ia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia mati. Bocah muda dan sangat kuat itu sendirian, tetapi mudah dikelola. Kemudian suatu hari, Goku bertemu dengan seorang gadis remaja bernama Bulma, yang pencariannya untuk Bola Naga mistis membawanya ke rumah Goku. Bersama-sama, mereka berangkat untuk menemukan ketujuh dan mengabulkan keinginannya. </item>
+        <item> Lucy adalah gadis berusia 17 tahun, yang ingin menjadi penyihir penuh. Suatu hari ketika mengunjungi Kota Harujion, dia bertemu Natsu, seorang pemuda yang mudah sakit karena segala jenis transportasi. Tapi Natsu bukan sembarang anak biasa, dia adalah anggota dari salah satu serikat penyihir paling terkenal di dunia: Fairy Tail. </item>
+        <item> Seri animasi manis, aneh, terpelintir, dan tidak benar Freakin menampilkan petualangan keluarga Griffin yang disfungsional. Peter yang kikuk dan Lois yang sudah lama menderita memiliki tiga anak. Stewie (bayi yang brilian tetapi sadis yang bertekad membunuh ibunya dan mengambil alih dunia), Meg (yang tertua, dan merupakan gadis yang paling tidak populer di kota) dan Chris (anak tengah, dia tidak terlalu cerdas tetapi memiliki gairah untuk film). Anggota terakhir keluarga itu adalah Brian - anjing yang bisa bicara dan lebih dari sekadar hewan peliharaan, ia menjaga Stewie, sambil menghirup Martinis dan memilah-milah masalah hidupnya sendiri. </item>
+        <item> Setelah akselerator partikel menyebabkan badai hebat, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya bersemangat dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya "manusia meta" yang diciptakan setelah ledakan akselerator dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat, tetapi tidak akan lama sebelum dunia mengetahui apa yang telah menjadi Barry Allen. Flash. </item>
+        <item> Naruto Shippuuden adalah kelanjutan dari serial TV animasi asli Naruto. Ceritanya berkisar pada Naruto Uzumaki yang lebih tua dan sedikit lebih matang dan upayanya untuk menyelamatkan temannya Uchiha Sasuke dari cengkeraman Shinobi seperti ular, Orochimaru. Setelah 2 setengah tahun, Naruto akhirnya kembali ke desanya Konoha, dan mulai mewujudkan ambisinya, meskipun itu tidak akan mudah, karena Ia telah mengumpulkan beberapa musuh (lebih berbahaya), seperti organisasi shinobi. ; Akatsuki. </item>
+        <item> Frank Gallagher dari Chicago adalah ayah tunggal yang bangga dari enam anak yang cerdas, rajin, mandiri, yang tanpa dirinya, mungkin lebih baik. Ketika Frank tidak di bar menghabiskan sedikit uang yang mereka miliki, dia pingsan di lantai. Tetapi anak-anak telah menemukan cara untuk tumbuh meskipun dia. Mereka mungkin tidak seperti keluarga yang Anda kenal, tetapi mereka tidak meminta maaf karena menjadi siapa mereka sebenarnya. </item>
+        <item> Kara Zor-El yang berusia 24 tahun, yang ditangkap oleh keluarga Danvers ketika dia berusia 13 tahun setelah diusir dari Krypton, harus belajar merangkul kekuatannya setelah sebelumnya menyembunyikannya. Orang-orang Danvers mengajarinya untuk berhati-hati dengan kekuatannya, sampai dia harus mengungkapkannya selama bencana yang tak terduga, menempatkannya dalam perjalanan kepahlawanannya. </item>
+        <item> Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal, serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap kehidupan politik, media, dan Amerika secara umum. </item>
+    </string-array>
+
+    <array name="data_tvshow_img">
+        <item>@drawable/poster_ncis</item>
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_shameless</item>
+        <item>@drawable/poster_supergirl</item>
+        <item>@drawable/poster_the_simpson</item>
+    </array>
+</resources>
